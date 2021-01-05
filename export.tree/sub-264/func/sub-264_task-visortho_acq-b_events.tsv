@@ -1,0 +1,101 @@
+onset	duration	trial_type	accuracy	response_time	stimA	stimB	stimC	match_posit
+4.0	4.91	O-P-	1	0.873	spies	rasp	drown	n/a
+8.91	4.91	O-P-	1	1.093	harp	cruised	runt	n/a
+13.82	4.91	O+P+	1	1.016	slave	hard	yard	2.0
+18.73	4.91	O-P+	1	1.067	click	psalm	prom	n/a
+23.64	4.91	O-P+	1	1.279	white	guilt	height	n/a
+28.55	4.91	O+P+	1	1.184	temple	spend	tend	2.0
+33.46	4.91	O-P-	1	1.388	lust	junk	bats	n/a
+38.37	4.91	O+P+	1	1.33	team	pure	dream	1.0
+43.28	4.91	O-P-	1	1.103	stack	castle	mint	n/a
+48.19	4.91	O-P+	1	1.378	half	flag	graph	n/a
+57.1	4.91	control	1	1.033	\ \	\ /	\ /	2.0
+62.01	4.91	control	1	1.05	\ /	/ \	/ \	2.0
+66.92	4.91	control	1	1.064	/ /	/ \	\ \	n/a
+71.83	4.91	control	0	1.144	/ /	/ \	/ /	1.0
+76.74	4.91	control	1	1.058	\ \	\ /	/ \	n/a
+81.65	4.91	control	1	1.031	\ /	/ \	\ /	1.0
+86.56	4.91	control	1	1.045	\ /	/ \	/ /	n/a
+91.47	4.91	control	1	1.038	/ /	/ \	/ \	2.0
+96.38	4.91	control	1	1.126	/ \	/ /	\ /	n/a
+101.29	4.91	control	1	1.096	\ \	\ /	\ \	1.0
+110.2	4.91	O-P-	1	1.119	dung	squirm	cramp	n/a
+115.11	4.91	O+P+	1	1.403	fool	cash	tool	1.0
+120.02	4.91	O-P+	1	1.175	dense	crowned	hound	n/a
+124.93	4.91	O-P+	1	1.107	mime	smash	rhyme	n/a
+129.84	4.91	O+P+	0	1.552	ample	purse	nurse	2.0
+134.75	4.91	O-P-	1	1.127	smooth	beard	uncle	n/a
+139.66	4.91	O-P-	1	1.02	mold	twice	jack	n/a
+144.57	4.91	O+P+	1	1.302	start	mind	part	1.0
+149.48	4.91	O-P-	1	1.122	cracked	bunch	boots	n/a
+154.39	4.91	O-P+	0	1.557	check	prize	rise	n/a
+163.3	4.91	control	1	1.043	\ \	/ /	/ \	n/a
+168.21	4.91	control	1	1.008	\ /	\ \	\ \	2.0
+173.12	4.91	control	1	1.07	/ /	\ \	\ /	n/a
+178.03	4.91	control	1	1.085	\ /	/ /	/ \	n/a
+182.94	4.91	control	1	1.087	/ /	\ \	\ \	2.0
+187.85	4.91	control	1	1.338	\ /	\ \	\ /	1.0
+192.76	4.91	control	0	1.173	/ \	\ \	/ /	n/a
+197.67	4.91	control	1	1.546	/ /	\ \	/ /	1.0
+202.58	4.91	control	1	1.064	/ \	/ /	/ /	2.0
+207.49	4.91	control	0	1.104	/ \	/ /	/ \	1.0
+216.4	4.91	O-P+	1	1.175	duct	fused	bruised	n/a
+221.31	4.91	O-P+	1	1.505	skim	blur	gym	n/a
+226.22	4.91	O+P+	0	1.113	sawed	puke	flawed	1.0
+231.13	4.91	O-P-	1	1.195	slash	zoos	snag	n/a
+236.04	4.91	O-P-	1	1.218	groove	dwarf	lint	n/a
+240.95	4.91	O+P+	1	1.114	stamp	glaze	blaze	2.0
+245.86	4.91	O-P-	1	0.976	trust	blame	wind	n/a
+250.77	4.91	O+P+	1	1.473	harm	lift	swift	2.0
+255.68	4.91	O-P+	1	1.262	planned	sludge	bland	n/a
+260.59	4.91	O-P-	1	1.229	racks	skit	tripe	n/a
+269.5	4.91	control	1	0.985	/ \	\ \	\ \	2.0
+274.41	4.91	control	1	1.315	/ /	\ /	/ \	n/a
+279.32	4.91	control	1	1.141	/ /	/ \	\ \	n/a
+284.23	4.91	control	0	1.132	\ \	/ /	\ \	1.0
+289.14	4.91	control	1	1.442	\ /	/ \	/ /	n/a
+294.05	4.91	control	1	0.933	/ /	\ /	\ /	2.0
+298.96	4.91	control	0	1.189	/ /	\ /	/ /	1.0
+303.87	4.91	control	1	1.048	\ \	/ \	/ /	n/a
+308.78	4.91	control	1	1.193	\ \	/ /	/ /	2.0
+313.69	4.91	control	0	1.037	/ \	\ \	/ \	1.0
+322.6	4.91	O-P-	1	1.108	climb	spit	scar	n/a
+327.51	4.91	O-P-	1	1.075	boost	woke	dutch	n/a
+332.42	4.91	O+P+	0	1.395	gland	price	stand	1.0
+337.33	4.91	O-P-	1	1.127	burnt	quack	barge	n/a
+342.24	4.91	O+P+	1	2.295	dunk	spoof	flunk	1.0
+347.15	4.91	O-P+	1	1.491	your	they	more	n/a
+352.06	4.91	O-P+	1	1.136	gulp	groom	womb	n/a
+356.97	4.91	O+P+	1	1.017	shell	blade	shade	2.0
+361.88	4.91	O-P+	1	1.415	flick	fraud	thawed	n/a
+366.79	4.91	O-P-	1	1.132	lies	gable	mall	n/a
+375.7	4.91	control	1	0.979	\ \	\ /	/ \	n/a
+380.61	4.91	control	1	1.03	/ /	\ \	\ /	n/a
+385.52	4.91	control	1	1.262	/ \	\ /	\ /	2.0
+390.43	4.91	control	1	0.997	\ \	/ \	/ \	2.0
+395.34	4.91	control	1	1.078	\ \	/ /	\ /	n/a
+400.25	4.91	control	1	1.388	/ \	\ /	/ \	1.0
+405.16	4.91	control	1	0.948	\ \	/ \	\ \	1.0
+410.07	4.91	control	1	1.082	\ /	/ /	/ /	2.0
+414.98	4.91	control	1	1.592	/ \	/ /	\ /	n/a
+419.89	4.91	control	1	1.071	\ /	/ /	\ /	1.0
+428.8	4.91	O-P+	1	1.509	strewn	deem	swoon	n/a
+433.71	4.91	O-P-	1	1.103	shore	maybe	heart	n/a
+438.62	4.91	O+P+	1	1.019	pray	bloom	gloom	2.0
+443.53	4.91	O-P+	1	1.21	plea	hatch	spree	n/a
+448.44	4.91	O+P+	0	1.387	plump	twitch	stitch	2.0
+453.35	4.91	O-P-	1	0.917	snows	pouch	clam	n/a
+458.26	4.91	O-P-	1	1.123	knock	burn	grab	n/a
+463.17	4.91	O+P+	0	1.163	snail	mask	frail	1.0
+468.08	4.91	O-P+	0	0.869	male	mean	queen	n/a
+472.99	4.91	O-P-	1	1.213	coach	tooth	rank	n/a
+481.9	4.91	control	1	1.039	/ /	\ /	\ \	n/a
+486.81	4.91	control	1	0.857	\ /	\ \	\ \	2.0
+491.72	4.91	control	1	1.084	/ \	\ \	/ /	n/a
+496.63	4.91	control	0	1.239	\ \	\ /	\ \	1.0
+501.54	4.91	control	1	1.017	/ \	/ /	/ /	2.0
+506.45	4.91	control	1	1.223	\ \	/ \	\ /	n/a
+511.36	4.91	control	1	1.195	/ /	/ \	/ /	1.0
+516.27	4.91	control	1	1.24	\ /	/ /	\ \	n/a
+521.18	4.91	control	1	1.135	\ \	/ \	/ \	2.0
+526.09	4.91	control	0	1.119	/ \	\ \	/ \	1.0
