@@ -1,0 +1,101 @@
+onset	duration	trial_type	accuracy	response_time	stimA	stimB	stimC	match_posit
+4.0	4.91	O-P+	0	1.801	stressed	spittle	jest	1.0
+8.91	4.91	O-P-	1	1.387	shows	seep	pledge	n/a
+13.82	4.91	O+P+	1	1.878	huddle	stung	rung	2.0
+18.73	4.91	O-P-	1	1.504	bath	cope	leads	n/a
+23.64	4.91	O-P+	1	1.464	quote	shut	throat	1.0
+28.55	4.91	O-P+	1	1.278	dance	curve	serve	2.0
+33.46	4.91	O-P-	1	1.416	ought	pace	king	n/a
+38.37	4.91	O+P+	1	1.368	free	took	three	1.0
+43.28	4.91	O+P+	1	1.446	hoop	weave	heave	2.0
+48.19	4.91	O-P-	1	1.162	debt	gaze	grill	n/a
+57.1	4.91	control	1	1.264	/ /	/ \	\ \	n/a
+62.01	4.91	control	1	1.431	\ \	\ /	/ \	n/a
+66.92	4.91	control	1	1.238	/ /	/ \	/ /	1.0
+71.83	4.91	control	1	1.161	\ /	/ \	/ /	n/a
+76.74	4.91	control	1	1.375	\ \	\ /	\ /	2.0
+81.65	4.91	control	1	1.405	\ /	/ \	\ /	1.0
+86.56	4.91	control	1	1.273	\ \	\ /	\ \	1.0
+91.47	4.91	control	1	1.571	/ /	/ \	/ \	2.0
+96.38	4.91	control	1	1.472	\ /	/ \	/ \	2.0
+101.29	4.91	control	1	1.676	/ \	/ /	\ /	n/a
+110.2	4.91	O+P+	1	1.234	blooms	prank	grooms	1.0
+115.11	4.91	O-P-	1	1.483	mild	weep	drag	n/a
+120.02	4.91	O-P-	1	1.543	people	girl	what	n/a
+124.93	4.91	O+P+	1	1.505	wrong	round	ground	2.0
+129.84	4.91	O-P+	1	1.894	clip	weed	plead	2.0
+134.75	4.91	O-P-	1	1.628	shine	skip	cute	n/a
+139.66	4.91	O-P-	1	1.594	town	gain	five	n/a
+144.57	4.91	O-P+	1	1.327	throats	startle	quotes	1.0
+149.48	4.91	O+P+	1	1.181	malt	coin	halt	1.0
+154.39	4.91	O-P+	1	1.583	broth	sneer	smear	2.0
+163.3	4.91	control	1	1.375	/ \	/ /	/ \	1.0
+168.21	4.91	control	1	1.034	\ /	\ \	\ \	2.0
+173.12	4.91	control	1	1.246	\ /	\ \	\ /	1.0
+178.03	4.91	control	1	1.284	/ \	\ \	/ /	n/a
+182.94	4.91	control	1	1.162	/ /	\ \	/ /	1.0
+187.85	4.91	control	1	1.425	/ /	\ \	\ /	n/a
+192.76	4.91	control	1	1.307	/ /	\ \	\ \	2.0
+197.67	4.91	control	1	1.274	\ /	/ /	/ \	n/a
+202.58	4.91	control	1	1.422	\ \	/ /	/ \	n/a
+207.49	4.91	control	1	1.445	/ \	/ /	/ /	2.0
+216.4	4.91	O+P+	1	1.363	squash	stacked	hacked	2.0
+221.31	4.91	O-P-	1	1.497	wharf	gleam	dell	n/a
+226.22	4.91	O+P+	1	1.464	black	fish	track	1.0
+231.13	4.91	O+P+	1	1.152	book	floor	door	2.0
+236.04	4.91	O-P+	1	2.047	clause	geese	niece	2.0
+240.95	4.91	O-P-	1	1.774	blitz	vault	dump	n/a
+245.86	4.91	O-P-	1	1.36	trait	vine	trance	n/a
+250.77	4.91	O-P+	1	1.571	swirl	knit	pearl	1.0
+255.68	4.91	O-P+	1	1.49	touch	than	such	1.0
+260.59	4.91	O-P-	1	1.668	glade	clips	scrape	n/a
+269.5	4.91	control	1	1.368	/ /	\ /	/ /	1.0
+274.41	4.91	control	1	1.529	/ /	/ \	\ \	n/a
+279.32	4.91	control	1	1.342	\ \	/ \	/ /	n/a
+284.23	4.91	control	1	1.425	/ \	\ \	\ \	2.0
+289.14	4.91	control	1	1.413	/ /	\ /	\ /	2.0
+294.05	4.91	control	0	1.372	/ /	\ /	/ \	n/a
+298.96	4.91	control	1	0.88	\ \	/ /	\ \	1.0
+303.87	4.91	control	1	1.548	\ /	/ \	/ /	n/a
+308.78	4.91	control	1	1.4	\ \	/ /	/ /	2.0
+313.69	4.91	control	1	1.462	/ \	\ \	/ \	1.0
+322.6	4.91	O-P-	1	1.682	crop	stall	gulf	n/a
+327.51	4.91	O+P+	1	1.675	knee	grass	tree	1.0
+332.42	4.91	O+P+	1	1.698	dull	since	prince	2.0
+337.33	4.91	O-P-	1	1.07	bleak	mice	dusk	n/a
+342.24	4.91	O-P-	1	1.382	math	verb	spire	n/a
+347.15	4.91	O+P+	1	1.469	knob	swan	blob	1.0
+352.06	4.91	O-P-	1	1.766	pound	path	drop	n/a
+356.97	4.91	O-P+	0	1.955	streak	sigh	meek	1.0
+361.88	4.91	O-P+	1	1.786	wasp	rinse	mince	2.0
+366.79	4.91	O-P+	1	1.293	want	caught	thought	2.0
+375.7	4.91	control	1	1.316	/ \	\ /	\ /	2.0
+380.61	4.91	control	1	1.252	\ \	\ /	/ \	n/a
+385.52	4.91	control	1	1.395	\ /	/ /	/ /	2.0
+390.43	4.91	control	1	1.057	\ \	/ /	\ /	n/a
+395.34	4.91	control	1	1.302	/ \	\ /	/ \	1.0
+400.25	4.91	control	1	1.2	\ \	/ \	/ \	2.0
+405.16	4.91	control	1	1.326	\ /	/ /	\ /	1.0
+410.07	4.91	control	1	1.146	\ \	/ \	\ \	1.0
+414.98	4.91	control	1	1.372	/ \	/ /	\ /	n/a
+419.89	4.91	control	1	1.385	/ /	\ \	\ /	n/a
+428.8	4.91	O-P-	1	1.537	thrush	hauled	torch	n/a
+433.71	4.91	O+P+	1	1.345	drowned	coyote	frowned	1.0
+438.62	4.91	O+P+	1	1.54	stance	scorn	sworn	2.0
+443.53	4.91	O-P+	1	1.46	dealt	close	felt	1.0
+448.44	4.91	O-P-	1	1.771	glow	saint	string	n/a
+453.35	4.91	O-P-	1	1.64	reared	slang	flex	n/a
+458.26	4.91	O-P+	1	1.569	bowl	view	whole	1.0
+463.17	4.91	O+P+	1	1.055	straw	wage	rage	2.0
+468.08	4.91	O-P-	1	1.417	stark	hoot	bounce	n/a
+472.99	4.91	O-P+	1	1.094	budge	lurk	jerk	2.0
+481.9	4.91	control	1	1.406	/ /	/ \	/ /	1.0
+486.81	4.91	control	1	1.436	\ \	\ /	\ \	1.0
+491.72	4.91	control	1	1.282	\ \	/ \	/ \	2.0
+496.63	4.91	control	1	1.367	/ /	\ /	\ \	n/a
+501.54	4.91	control	1	1.318	/ \	/ /	/ /	2.0
+506.45	4.91	control	1	1.139	\ \	/ \	\ /	n/a
+511.36	4.91	control	1	1.015	\ /	/ /	\ \	n/a
+516.27	4.91	control	1	0.756	/ \	\ \	/ \	1.0
+521.18	4.91	control	1	0.742	\ /	\ \	\ \	2.0
+526.09	4.91	control	1	1.641	/ \	\ \	/ /	n/a
